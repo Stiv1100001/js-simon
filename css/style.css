@@ -1,0 +1,17 @@
+header {
+    height: 50vh;
+}
+
+main {
+    height: 50vh;
+}
+
+#result {
+    top: 49.5%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    /* mix-blend-mode: difference; */
+    opacity: 1;
+}
